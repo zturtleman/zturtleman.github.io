@@ -5,6 +5,7 @@
 body { margin: 0; padding: 0; background-color: #8A9; color: #000; }
 #outer { margin: 10px 0; width: 100%; background-color: #FFF }
 .illustration { width: 60%; max-width: 600px; height: auto; }
+div.logoareatext { padding-top:5%; padding-left:5%; }
 div.logoarea { padding-top:15%; padding-left:10%; width: 30%; max-width: 256px; }
 img.logoarea { width: 100%; max-width: 256px; height: auto; }
 div.screenshot { text-align: center; background-color: #555; }
@@ -47,6 +48,7 @@ src: url('../fonts/mplus-1mn-regular.ttf')
      format("truetype");
 }
 
+/*
 h1, h2, h3, h4, h5, h6 {
   font-family: mplus-1mn-regular;
 }
@@ -54,4 +56,5 @@ h1, h2, h3, h4, h5, h6 {
 .title {
   font-family: mplus-1mn-regular;
 }
+*/
 
